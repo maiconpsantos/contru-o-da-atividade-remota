@@ -1,0 +1,4 @@
+criar lista de produtos 
+criar inclusão de fotos dos produtos
+colocar descrição dos produtos 
+criar controle de estoque 
