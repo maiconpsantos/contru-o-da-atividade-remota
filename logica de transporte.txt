@@ -1,0 +1,3 @@
+criar canal de comunicação 
+criar comunicação para enviar pedidos
+criar comunicação de retornos de pedido

@@ -1,0 +1,3 @@
+criar tela com os produtos selecionados
+criar ação do usuario em relação do produto
+colocar sub total do produtos selecionados 

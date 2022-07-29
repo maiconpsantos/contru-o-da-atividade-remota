@@ -1,0 +1,3 @@
+criar cadastro de forma de pagamento 
+colocar a visualização do pedido
+aréa de cadastro do endereço da entrega
