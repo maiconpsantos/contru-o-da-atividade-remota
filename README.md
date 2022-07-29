@@ -8,7 +8,7 @@ login do cliente
 # Terceira etapa produtos
 cadastro de produtos
 categorização dos produtos
-# Qarta etapa compra
+# Quarta etapa compra
 carrinho de compra 
 formas de pagamento 
 logica de transpote 
