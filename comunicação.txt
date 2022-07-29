@@ -1,0 +1,3 @@
+criar tela de comunicação da loja
+criar tela de comunicação do usuario
+criar sistema de fila de prioridade 
