@@ -1,3 +1,7 @@
 layout da tela dos produtos 
 comunicação com as listagens do produto 
 tela para usuarios com as categorias dos produtos
+
+
+
+Arquivo rodando
